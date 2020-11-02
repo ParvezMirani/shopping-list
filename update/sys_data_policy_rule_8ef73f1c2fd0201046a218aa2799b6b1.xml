@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>quality</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-02 02:18:20</sys_created_on>
+        <sys_data_policy display_value="Sets the Quality field to mandatory">4af73f1c2fd0201046a218aa2799b6af</sys_data_policy>
+        <sys_id>8ef73f1c2fd0201046a218aa2799b6b1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>quality</sys_name>
+        <sys_package display_value="Shopping List" source="x_522808_shopping">a276bf982fd0201046a218aa2799b696</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">a276bf982fd0201046a218aa2799b696</sys_scope>
+        <sys_update_name>sys_data_policy_rule_8ef73f1c2fd0201046a218aa2799b6b1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-02 02:18:20</sys_updated_on>
+        <table>x_522808_shopping_shopping_item</table>
+    </sys_data_policy_rule>
+</record_update>
